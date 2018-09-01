@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img { width:100%;
+}
+	body{    font-family: calibri;}
+  table, th, td {
+    margin: 20px;
+    border: 1px solid black ;
+    border-collapse: collapse;
+  }
+  th, td{
+    padding: 10px;
+    text-align:left;
+  }
+  th{
+    background-color:gray;
+  }
+</style>
+</head>
+<body>
+  <h1> My Page </h1>
+  <hr>
+  <p> blablabla </p>
+  <h2> my table </h2>
+  <table>
+    <tr>
+      <th> Blablablablabla</th>
+      <th> Blablablablabla</th>
+    </tr>
+    <tr>
+    <td>data</td>
+    <td>data</td>
+    </tr>
+  </table>
+
+</body>
+</html>
