@@ -4,6 +4,8 @@
     <style>
 
         body {
+        margin-left:50px;
+        margin-right:50px;
             font-family: Calibri;
             background-color: azure;
         }
@@ -29,7 +31,7 @@
     <h1> AXIS SERVICES </h1>
     <hr>
     <h1> YOUR LOCAL HANDYMAN </h1>
-    <img src="https://images.littleakiba.com/product17224-large-3.jpg" width="200" height="200" alt="Axis Logo">
+    <img src="https://images.littleakiba.com/product17224-large-3.jpg" width="200" height="200" m alt="Axis Logo" style="margin-left:200px">
     <h2> Contact Info </h2>
     <table>
         <tr>
